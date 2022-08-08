@@ -36,7 +36,7 @@ fn main() {
 }
 ```
 
-ii. Annotate the source code for visualization generation in main.rs according to the Table I. in the paper. [RustViz: Interactively Visualizing Ownership and Borrowing](https://web.eecs.umich.edu/~comar/rustviz-hatra20.pdf) i.e  specify that event in comment 
+ii. Annotate the source code for visualization generation in main.rs according to the Appendix of [rustviz repo](https://github.com/rustviz/rustviz#appendix) i.e  specify that event in comment 
 
 ```
 # main.rs
